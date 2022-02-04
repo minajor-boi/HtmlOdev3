@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+  }
+.ital{
+    font-style: italic;
+}
+.alticizik  {
+    display: inline-block;
+    text-decoration: underline #000000;
+    margin-left: 50%;
+
+}
+h3{
+    display: inline-block;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    margin-left: 50%;
+}
+h2{
+    margin-left: 80%;;
+}
+ul,ol{
+        margin-left: 10%;
+        margin-right: 10%;
+}
